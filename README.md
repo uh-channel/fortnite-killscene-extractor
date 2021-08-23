@@ -1,6 +1,8 @@
 # Fortnite Kill-Scene Extractor
 Python script for kill scene detection and extraction from playing video of Fortnite.
 
+This script scan the video, and after detecting the kill point, cut out the each kill scene to the output directory without re-encoding.
+
 ## Requirement
 
 * Python > 3.2 
